@@ -1,0 +1,10 @@
+--To copy a file to ROM, first of all, the ROM must be electrically writeable. Next, unless it is re-writeable (some ROMs are write once although most modern ones are re-writeable) there has to be enough space left on the ROM to accept the file.
+
+--Next, you will need some sort of application to perform the copy. Some types of ROM can be written using standard tools such as File Explorer in Windows. Linux also has some standard tools depending on the version
+
+--Writeable ROM may be in the form of a integrated circuit chip of some sort of an optical disk. ROM disk types include CD-R, CD-RW, DVD-R, DVD+R (and dual layer versions of DVD disks), DVD-RW and certain Blu-ray disks. You will need hardware compatible with the type of device connected to your computer to do this.
+
+It is actually very unusual to copy specifically from RAM to ROM. You will normally copy files from an HDD or SSD to the ROM.
+
+
+--Devices such as tablets and phones include re-writeable ROM to store their operating system and Apps.

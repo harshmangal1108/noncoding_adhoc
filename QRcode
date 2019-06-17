@@ -1,0 +1,3 @@
+yum install qrencode*
+yum install qrencode* https://centos.pkgs.org/7/centos-x86_64/qrencode-3.4.1-3.el7.x86_64.rpm.html
+qrencode -s 10x10 -o github.png #URL
